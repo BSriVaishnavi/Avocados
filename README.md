@@ -1,3 +1,3 @@
 # Avocados
-My first Git Repository
+My first Git Repository.
 Author - B SRI VAISHNAVI
